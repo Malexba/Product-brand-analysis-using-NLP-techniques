@@ -4,4 +4,4 @@ This project is a collection of 7 Jupyter Notebooks that cover all the steps req
 
 These notebooks offer a comparison between the three main companies in the game industry: **Nintendo**, **Playstation** and **Xbox**; as well as their respective exclusive launches at the end of January 2023 (**Fire Emblem Engage**, **Forspoken** and **Hi-Fi Rush**). We perform topic modeling in order to look for the most relevant topics that are related to each company, along with sentiment analysis to find the perceived sentiment of each company and the reception their games have received.
 
-The final [report](./Report.pdf) of the project is written in Spanish since this is a bachelor's degree final project of a degree course in Spain.
+Despite the fact that the final [report](./SpanishReport.pdf) and the [defence](./Presentacion.pptx) of the project was completely done in Spanish, since this is a bachelor's degree final project of a degree course in Spain, it has also been included an English version of both the [report](./Report.pdf) and the [presentation](./Presentation.pptx).
